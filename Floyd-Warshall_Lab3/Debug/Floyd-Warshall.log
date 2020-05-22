@@ -1,0 +1,17 @@
+﻿  FloydWarshall.cpp
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\matrix_of_adjacencies.h(53,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\FloydWarshall.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\List.h(89,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\List.h(88): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\matrix_of_adjacencies.h(13): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\Used_function.h(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<std::string>"
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\List.h(98,2): warning C4018: <: несоответствие типов со знаком и без знака
+  Floyd-Warshall.vcxproj -> C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\Debug\Floyd-Warshall.exe

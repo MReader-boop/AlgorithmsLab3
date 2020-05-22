@@ -1,0 +1,2 @@
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\Debug\Floyd-Warshall.exe
+C:\Users\klesovi\Desktop\Floyd-Warshall_Lab3\Debug\Floyd-Warshall.pdb
